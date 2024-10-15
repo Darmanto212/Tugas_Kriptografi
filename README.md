@@ -1,37 +1,36 @@
 # Tugas_Kriptografi
-Saya melihat Anda mengunggah gambar dengan instruksi terkait enkripsi Playfair Cipher . B"TEKNIK INFORMATIKA".
+Saya melihat Anda mengunggah gambar dengan instruksi terkait enkripsi Playfair Cipher. B"TEKNIK INFORMATIKA".
 
 Tabel Kunci Playfair
-Berikut tabel Playfair yang dibentuk dari kunci "TEKNIK INFORMATIKA" :
+Berikut tabel Playfair yang dibentuk dari kunci "TEKNIK INFORMATIKA":
 
-matematika
-
-Salin kode
+mathematica
+Copy code
 T  E  K  N  I
 F  O  R  M  A
 B  C  D  G  H
 L  P  Q  S  U
 V  W  X  Y  Z
 Plaintext yang akan dienkripsi
-SAPU YANG BAGUS
+GOOD BROOM
 R
-JUNI
+JUN
 H
-SAPU BAGUS SAPU BERSIH
-Enkripsi:IRRO FCRKM YUFCQ PBKR I
+GOOD BROOM SWEEP CLEAN
+Enkripsi: IRRO FCRKM YUFCQ PBKR I
 
-TAMAN NEGARA NASIONAL REDWOOD
+REDWOOD NATIONAL STATE PARK
 Enkripsi:FCCZ RK KRPK YNLF QU TQ LF MZ
 
-MAKANAN JUNK DAN MASALAH KESEHATAN
-Bahasa InggrisYVIR MARK HG ILF QULF G
+JUNK FOOD AND HEALTH PROBLEMS
+EYVIR MARK HG ILF QULF G
 
 H
 IRRO FCRKM YUFCQ PBKR I
-Deskripsi: SAPU YANG BAIK, SABUN BERSIH
+Dekripsi: GOOD BROOM SWEEP CLEAN
 
 FCCZ RK KRPK YNLF QU TQ LF MZ
-DeskripsiTAMAN NEGARA NASIONAL REDWOOD
+DekripsiREDWOOD NATIONAL STATE PARK
 
-YVIR MARK HG ILF KULF G
-DekrMAKANAN JUNK DAN MASALAH KESEHATAN
+YVIR MARK HG ILF QULF G
+DekrJUNK FOOD AND HEALTH PROBLEMS
